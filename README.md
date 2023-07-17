@@ -1,5 +1,8 @@
 # 💫 About Me:
-Sono un studente laureato in ingegneria informatica dell'Università di Roma TorVergata.<br>Al momento sto ultimando gli studi nella magistrale in Ingegneria dell'Automazione.<br>
+ am a graduating student in automation engineering with a bachelor’s degree in
+computer engineering. I am excited about computer science, robotics and 3D design
+searching for work experiences to get knowledge and skills. Supporter of teamwork,
+creativity and problem solving.<br>
 
 
 ## 🌐 Socials:
