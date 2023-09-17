@@ -1,5 +1,5 @@
 # 💫 About Me:
- am a graduating student in automation engineering with a bachelor’s degree in
+ i'am a graduating student in automation engineering with a bachelor’s degree in
 computer engineering. I am excited about computer science, robotics and 3D design
 searching for work experiences to get knowledge and skills. Supporter of teamwork,
 creativity and problem solving.
@@ -20,24 +20,10 @@ creativity and problem solving.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=redsIng&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=redsIng&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=redsIng&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**redsIng/redsIng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
