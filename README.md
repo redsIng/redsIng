@@ -1,5 +1,5 @@
 # 💫 About Me:
- i'am a graduating student in automation engineering with a bachelor’s degree in
+ I'am a graduating student in automation engineering with a bachelor’s degree in
 computer engineering. I am excited about computer science, robotics and 3D design
 searching for work experiences to get knowledge and skills. Supporter of teamwork,
 creativity and problem solving.
